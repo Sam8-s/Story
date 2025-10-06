@@ -3,9 +3,17 @@ It is chapter1 file
 some git commands as follows
 
 1. git add _name_of_file_
-1. a) git add.  =this is for adding all files existing in the directory
+1a. git add.  =this is for adding all files existing in the directory
 
 2. git status
 3. git commit -m "This is for message"
-  - here -m is for writing messages
+    - here -m is for writing messages
 
+4. git log  
+    - to see the commit made
+
+5. git diff _filename_
+    - to see the difference b/w previous checkouts
+
+6. git checkout _filename_
+    - to role back one step back to previous file
