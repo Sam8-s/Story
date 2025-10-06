@@ -1,0 +1,11 @@
+It is chapter1 file 
+
+some git commands as follows
+
+1. git add _name_of_file_
+1. a) git add.  =this is for adding all files existing in the directory
+
+2. git status
+3. git commit -m "This is for message"
+  - here -m is for writing messages
+
