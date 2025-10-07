@@ -18,6 +18,12 @@ some git commands as follows
 6. git checkout _filename_
     - to role back one step back to previous file
 
+PUSH TO REMOTE REPOSITORY 
+
+1. git push <remote name> <branch name>
+    -ex:- git push origin main
+
+    
 BRANCH AND MERGE
 
 1. git branch _branch_name 
