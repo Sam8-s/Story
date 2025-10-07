@@ -17,3 +17,20 @@ some git commands as follows
 
 6. git checkout _filename_
     - to role back one step back to previous file
+
+BRANCH AND MERGE
+
+1. git branch _branch_name 
+    -create new branch
+
+2. git branch 
+    -check for branches
+
+3. git checkout _branch_name
+    -to go the branch mean to switch to that branch
+    -you can do changes in these branch and commit that 
+    does not effect the main branch
+
+4. git merge _branch_name
+    -these merges the changes to the main branch 
+    NOTE- You can merge when u are in main branch    
